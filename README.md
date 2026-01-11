@@ -20,3 +20,5 @@ Real-time Cyber Lab Booking application
 The command to run this file is
  pip install fastapi[all] uvicorn apscheduler sqlalchemy psycopg2-binary python-multipart
  uvicorn app.main:app --reload
+
+ To run live demo, install live packages and click the above link that works perfectly!!
